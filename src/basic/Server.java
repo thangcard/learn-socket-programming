@@ -1,4 +1,4 @@
-package simple;
+package basic;
 
 import java.io.IOException;
 import java.io.InputStream;
